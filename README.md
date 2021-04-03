@@ -1,4 +1,7 @@
 # very-arXived
+
+**[ArXiv-feeder](https://github.com/takubokudori/ArXiv-feeder) that migrated this to Google App Script is available.**
+
 arXiv RSSをSlackに登録するスクリプト
 
 翻訳機能付き
